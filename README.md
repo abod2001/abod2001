@@ -14,7 +14,7 @@ abod2001@github
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: laravel, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 ```
 <hr>
@@ -85,12 +85,12 @@ abod2001@github
 <br>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
-  <a href="https://www.linkedin.com/in/abod2001/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="https://www.facebook.com/abod2001/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
-   <a href="mailto:abod2001.nageeb.mahmoud.hssan@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-  <a href="https://www.youtube.com/c/abod20011"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/abood2001/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/abugehad.9a/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="mailto:aboodgehad2001@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://www.youtube.com/c/...."><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
   <a href="https://www.tiktok.com/@abod2001"><img src="https://img.shields.io/badge/tiktok-000.svg?style=for-the-badge&logo=tiktok&logoColor=ffffff"/></a>
-  <a href="https://api.whatsapp.com/send?phone=201025249400" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+  <a href="https://api.whatsapp.com/send?phone=+970594045034" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
 
 </p>
 <br>

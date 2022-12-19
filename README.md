@@ -1,6 +1,6 @@
 <h2 align='center'>Full-Stack Developer💻</h2>
 
-<h4 align='center'>وَنحْنُ نُحِبُّ الحَياةَ إذَا مَا استَطعنَا إِلَيْهَا سَبِيلاَ..💛</h4>
+<h4 align='center'>وَنحْنُ نُحِبُّ الحَياةَ إذَا مَا استَطعنَا إِلَيْهَا سَبِيلاَ..💚</h4>
 <hr>
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h1 align="center">
